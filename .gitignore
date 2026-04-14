@@ -1,6 +1,0 @@
-roberta-base/
-*.bin
-*.safetensors
-*.ot
-*.h5
-*.msgpack
